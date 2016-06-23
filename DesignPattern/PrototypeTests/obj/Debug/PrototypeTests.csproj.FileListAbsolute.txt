@@ -1,0 +1,7 @@
+E:\项目\DesignPattern\PrototypeTests\bin\Debug\PrototypeTests.dll
+E:\项目\DesignPattern\PrototypeTests\bin\Debug\PrototypeTests.pdb
+E:\项目\DesignPattern\PrototypeTests\bin\Debug\Prototype.dll
+E:\项目\DesignPattern\PrototypeTests\bin\Debug\Prototype.pdb
+E:\项目\DesignPattern\PrototypeTests\obj\Debug\PrototypeTests.csprojResolveAssemblyReference.cache
+E:\项目\DesignPattern\PrototypeTests\obj\Debug\PrototypeTests.dll
+E:\项目\DesignPattern\PrototypeTests\obj\Debug\PrototypeTests.pdb

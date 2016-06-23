@@ -1,0 +1,7 @@
+E:\项目\DesignPattern\ObserverTests\obj\Debug\ObserverTests.csprojResolveAssemblyReference.cache
+E:\项目\DesignPattern\ObserverTests\bin\Debug\ObserverTests.dll
+E:\项目\DesignPattern\ObserverTests\bin\Debug\ObserverTests.pdb
+E:\项目\DesignPattern\ObserverTests\bin\Debug\Observer.dll
+E:\项目\DesignPattern\ObserverTests\bin\Debug\Observer.pdb
+E:\项目\DesignPattern\ObserverTests\obj\Debug\ObserverTests.dll
+E:\项目\DesignPattern\ObserverTests\obj\Debug\ObserverTests.pdb

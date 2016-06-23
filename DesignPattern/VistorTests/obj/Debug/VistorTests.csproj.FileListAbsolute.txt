@@ -1,0 +1,7 @@
+E:\项目\DesignPattern\VistorTests\bin\Debug\VistorTests.dll
+E:\项目\DesignPattern\VistorTests\bin\Debug\VistorTests.pdb
+E:\项目\DesignPattern\VistorTests\bin\Debug\Vistor.dll
+E:\项目\DesignPattern\VistorTests\bin\Debug\Vistor.pdb
+E:\项目\DesignPattern\VistorTests\obj\Debug\VistorTests.csprojResolveAssemblyReference.cache
+E:\项目\DesignPattern\VistorTests\obj\Debug\VistorTests.dll
+E:\项目\DesignPattern\VistorTests\obj\Debug\VistorTests.pdb

@@ -1,0 +1,5 @@
+E:\项目\DesignPattern\Memento\bin\Debug\Memento.dll
+E:\项目\DesignPattern\Memento\bin\Debug\Memento.pdb
+E:\项目\DesignPattern\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache
+E:\项目\DesignPattern\Memento\obj\Debug\Memento.dll
+E:\项目\DesignPattern\Memento\obj\Debug\Memento.pdb

@@ -1,0 +1,4 @@
+E:\项目\DesignPattern\Proxy\bin\Debug\Proxy.dll
+E:\项目\DesignPattern\Proxy\bin\Debug\Proxy.pdb
+E:\项目\DesignPattern\Proxy\obj\Debug\Proxy.dll
+E:\项目\DesignPattern\Proxy\obj\Debug\Proxy.pdb

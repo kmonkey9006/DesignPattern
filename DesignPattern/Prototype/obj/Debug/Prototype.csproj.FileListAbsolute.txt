@@ -1,0 +1,4 @@
+E:\项目\DesignPattern\Prototype\bin\Debug\Prototype.dll
+E:\项目\DesignPattern\Prototype\bin\Debug\Prototype.pdb
+E:\项目\DesignPattern\Prototype\obj\Debug\Prototype.dll
+E:\项目\DesignPattern\Prototype\obj\Debug\Prototype.pdb

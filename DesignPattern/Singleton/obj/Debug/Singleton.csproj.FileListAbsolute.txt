@@ -1,0 +1,4 @@
+E:\项目\DesignPattern\Singleton\bin\Debug\Singleton.dll
+E:\项目\DesignPattern\Singleton\bin\Debug\Singleton.pdb
+E:\项目\DesignPattern\Singleton\obj\Debug\Singleton.dll
+E:\项目\DesignPattern\Singleton\obj\Debug\Singleton.pdb

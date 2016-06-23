@@ -1,0 +1,7 @@
+E:\项目\DesignPattern\AbstartFactoryTests1\obj\Debug\AbstartFactoryTests.csprojResolveAssemblyReference.cache
+E:\项目\DesignPattern\AbstartFactoryTests1\bin\Debug\AbstartFactoryTests.dll
+E:\项目\DesignPattern\AbstartFactoryTests1\bin\Debug\AbstartFactoryTests.pdb
+E:\项目\DesignPattern\AbstartFactoryTests1\bin\Debug\AbstartFactory.dll
+E:\项目\DesignPattern\AbstartFactoryTests1\bin\Debug\AbstartFactory.pdb
+E:\项目\DesignPattern\AbstartFactoryTests1\obj\Debug\AbstartFactoryTests.dll
+E:\项目\DesignPattern\AbstartFactoryTests1\obj\Debug\AbstartFactoryTests.pdb

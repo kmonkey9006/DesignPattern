@@ -1,0 +1,5 @@
+E:\项目\DesignPattern\Builder\bin\Debug\Builder.dll
+E:\项目\DesignPattern\Builder\bin\Debug\Builder.pdb
+E:\项目\DesignPattern\Builder\obj\Debug\Builder.dll
+E:\项目\DesignPattern\Builder\obj\Debug\Builder.pdb
+E:\项目\DesignPattern\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache

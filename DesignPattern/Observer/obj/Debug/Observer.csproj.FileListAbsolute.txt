@@ -1,0 +1,4 @@
+E:\项目\DesignPattern\Observer\bin\Debug\Observer.dll
+E:\项目\DesignPattern\Observer\bin\Debug\Observer.pdb
+E:\项目\DesignPattern\Observer\obj\Debug\Observer.dll
+E:\项目\DesignPattern\Observer\obj\Debug\Observer.pdb

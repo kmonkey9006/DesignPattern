@@ -1,0 +1,7 @@
+E:\项目\DesignPattern\MementoTests\bin\Debug\MementoTests.dll
+E:\项目\DesignPattern\MementoTests\bin\Debug\MementoTests.pdb
+E:\项目\DesignPattern\MementoTests\bin\Debug\Memento.dll
+E:\项目\DesignPattern\MementoTests\bin\Debug\Memento.pdb
+E:\项目\DesignPattern\MementoTests\obj\Debug\MementoTests.csprojResolveAssemblyReference.cache
+E:\项目\DesignPattern\MementoTests\obj\Debug\MementoTests.dll
+E:\项目\DesignPattern\MementoTests\obj\Debug\MementoTests.pdb

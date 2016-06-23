@@ -1,0 +1,7 @@
+E:\项目\DesignPattern\StrategyTests\bin\Debug\StrategyTests.dll
+E:\项目\DesignPattern\StrategyTests\bin\Debug\StrategyTests.pdb
+E:\项目\DesignPattern\StrategyTests\bin\Debug\Strategy.dll
+E:\项目\DesignPattern\StrategyTests\bin\Debug\Strategy.pdb
+E:\项目\DesignPattern\StrategyTests\obj\Debug\StrategyTests.csprojResolveAssemblyReference.cache
+E:\项目\DesignPattern\StrategyTests\obj\Debug\StrategyTests.dll
+E:\项目\DesignPattern\StrategyTests\obj\Debug\StrategyTests.pdb

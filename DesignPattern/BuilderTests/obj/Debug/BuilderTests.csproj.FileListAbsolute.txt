@@ -1,0 +1,7 @@
+E:\项目\DesignPattern\BuilderTests\obj\Debug\BuilderTests.csprojResolveAssemblyReference.cache
+E:\项目\DesignPattern\BuilderTests\bin\Debug\BuilderTests.dll
+E:\项目\DesignPattern\BuilderTests\bin\Debug\BuilderTests.pdb
+E:\项目\DesignPattern\BuilderTests\bin\Debug\Builder.dll
+E:\项目\DesignPattern\BuilderTests\bin\Debug\Builder.pdb
+E:\项目\DesignPattern\BuilderTests\obj\Debug\BuilderTests.dll
+E:\项目\DesignPattern\BuilderTests\obj\Debug\BuilderTests.pdb

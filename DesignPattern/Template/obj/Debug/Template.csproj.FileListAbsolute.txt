@@ -1,0 +1,4 @@
+E:\项目\DesignPattern\Template\bin\Debug\Template.dll
+E:\项目\DesignPattern\Template\bin\Debug\Template.pdb
+E:\项目\DesignPattern\Template\obj\Debug\Template.dll
+E:\项目\DesignPattern\Template\obj\Debug\Template.pdb

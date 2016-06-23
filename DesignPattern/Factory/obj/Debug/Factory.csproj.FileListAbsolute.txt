@@ -1,0 +1,5 @@
+E:\项目\DesignPattern\Factory\bin\Debug\Factory.dll
+E:\项目\DesignPattern\Factory\bin\Debug\Factory.pdb
+E:\项目\DesignPattern\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+E:\项目\DesignPattern\Factory\obj\Debug\Factory.dll
+E:\项目\DesignPattern\Factory\obj\Debug\Factory.pdb
