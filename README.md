@@ -1,3 +1,3 @@
 # DesignPattern
 DesignPattern DEMO （ To be continue）
-Blogs：http://www.cnblogs.com/kmonkeywyl/p/5544997.html
+Blogs：http://www.cnblogs.com/wyl1924/p/5544997.html
